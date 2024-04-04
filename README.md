@@ -1,6 +1,6 @@
 # AssistantVocal
 
-[![GitHub license](https://img.shields.io/github/license/Jovillios/AssistantVocal.svg)](https://github.com/Jovillios/AssistantVocal/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Jovillios/AssistantVocal.svg)](https://github.com/Jovillios/AssistantVocal/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/Jovillios/AssistantVocal.svg)](https://github.com/Jovillios/AssistantVocal/issues)
 [![GitHub stars](https://img.shields.io/github/stars/Jovillios/AssistantVocal.svg)](https://github.com/Jovillios/AssistantVocal/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Jovillios/AssistantVocal.svg)](https://github.com/Jovillios/AssistantVocal/network)
