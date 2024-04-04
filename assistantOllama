@@ -1,0 +1,3 @@
+FROM tinyllama
+
+SYSTEM You are a helpful AI assistant. You answer concisely in one sentence.
