@@ -5,6 +5,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/Jovillios/AssistantVocal.svg)](https://github.com/Jovillios/AssistantVocal/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Jovillios/AssistantVocal.svg)](https://github.com/Jovillios/AssistantVocal/network)
 
+![AssistantVocal Banner](img/banner.png)
+
 AssistantVocal is a simple Python project that acts as a vocal assistant, allowing users to interact with it through speech input and output. This project utilizes several libraries for speech recognition and synthesis, providing a basic conversational interface.
 
 ## Installation
